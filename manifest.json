@@ -1,0 +1,9 @@
+﻿{
+	"name": "RemoveSulfurPools",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/SylmarDev/RoR2-RemoveSulfurPools",
+	"description": "Removes Sulfur Pools, the worst map in the game",
+	"dependencies": [
+		"RiskofThunder-R2API_Director-2.1.3"
+	]
+}
