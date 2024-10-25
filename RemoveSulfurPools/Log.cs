@@ -1,6 +1,6 @@
 ﻿using BepInEx.Logging;
 
-namespace SylmarDev.RoR2BossRush
+namespace SylmarDev.RemoveSulfurPools
 {
     internal static class Log
     {

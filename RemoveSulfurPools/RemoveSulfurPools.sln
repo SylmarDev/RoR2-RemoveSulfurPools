@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveSulfurPools", "RemoveSulfurPools.csproj", "{AF59CFFE-4AFC-4228-A65C-F65C702F348B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveSulfurPools", "RemoveSulfurPools.csproj", "{AF59CFFE-4AFC-4228-A65C-F65C702F348B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Metadata", "Metadata", "{319E4D29-3273-4D2B-A100-15A0DF542FFC}"
+	ProjectSection(SolutionItems) = preProject
+		..\manifest.json = ..\manifest.json
+		..\README.md = ..\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
